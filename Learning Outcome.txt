@@ -1,0 +1,1 @@
+This project is a banking simulation. Working on this project gave me experience using queues.
